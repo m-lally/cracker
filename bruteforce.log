@@ -1,0 +1,5 @@
+2025-06-13 15:43:11,509 INFO MainThread Starting SSH brute force script (production ready with visual status)
+2025-06-13 15:45:03,303 INFO MainThread Starting SSH brute force script (production ready with visual status)
+2025-06-13 15:54:47,893 INFO MainThread Starting SSH brute force script with memory management and visual status
+2025-06-13 15:54:48,213 INFO MainThread Total combinations to try: 21485177029560
+2025-06-13 16:04:58,600 WARNING Thread-2 Timeout for 185.183.174.1:22 password:23***
